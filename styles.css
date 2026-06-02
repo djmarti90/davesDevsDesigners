@@ -1,0 +1,27 @@
+body {
+    background-image: url("img/faded-office.png");
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+#app {
+    width: 440px;
+    font-size: 30px;
+    color: #020202;
+    margin: 100px;
+}
+
+#underline {
+    border-bottom: 6px solid #0ea5e9;
+}
+
+#chat {
+    background-color: #0ea5e9;
+    color: white;
+    border: none;
+    font-size: 30px;
+    margin-top: 20px;
+    padding: 20px 40px;
+    font-family: inherit;
+    font-weight: inherit;
+}
